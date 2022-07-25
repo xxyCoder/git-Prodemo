@@ -9,5 +9,6 @@ public class Demo1 {
         System.out.println("master add");
 
         System.out.println("b1 add");
+        System.out.println("test push");
     }
 }
