@@ -7,5 +7,7 @@ public class Demo1 {
         System.out.println("b1 modify");
 
         System.out.println("master add");
+
+        System.out.println("b1 add");
     }
 }
