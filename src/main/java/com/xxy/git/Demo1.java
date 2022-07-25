@@ -10,5 +10,6 @@ public class Demo1 {
 
         System.out.println("b1 add");
         System.out.println("test push");
+        System.out.println("test pull");
     }
 }
