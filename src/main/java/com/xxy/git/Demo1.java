@@ -5,5 +5,7 @@ public class Demo1 {
         System.out.println("hell git");
         System.out.println("the modify1");
         System.out.println("b1 modify");
+
+        System.out.println("b1 add");
     }
 }
